@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tech-Turtles/static/css/main.a17bad4b.css",
-    "main.js": "/Tech-Turtles/static/js/main.9ea488d2.js",
+    "main.js": "/Tech-Turtles/static/js/main.fff4f895.js",
     "static/js/592.5ea24287.chunk.js": "/Tech-Turtles/static/js/592.5ea24287.chunk.js",
     "static/media/e1.webp": "/Tech-Turtles/static/media/e1.46aca20b6b7b22e6661d.webp",
     "static/media/g1.jpg": "/Tech-Turtles/static/media/g1.03348bac165324027a52.jpg",
@@ -100,11 +100,11 @@
     "index.html": "/Tech-Turtles/index.html",
     "static/media/backpack.svg": "/Tech-Turtles/static/media/backpack.9c23e9773c80b23d7958643b7a7ed27c.svg",
     "main.a17bad4b.css.map": "/Tech-Turtles/static/css/main.a17bad4b.css.map",
-    "main.9ea488d2.js.map": "/Tech-Turtles/static/js/main.9ea488d2.js.map",
+    "main.fff4f895.js.map": "/Tech-Turtles/static/js/main.fff4f895.js.map",
     "592.5ea24287.chunk.js.map": "/Tech-Turtles/static/js/592.5ea24287.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a17bad4b.css",
-    "static/js/main.9ea488d2.js"
+    "static/js/main.fff4f895.js"
   ]
 }
